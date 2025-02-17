@@ -21,7 +21,7 @@ A 3D theme park built with **Vite**, **Three.js**, **TypeScript**, and **Tailwin
 
 1. **Clone the repository**
    ```sh
-   git clone 
+   git clone https://github.com/euii-ii/theme-park.git
    cd 3d-theme-park
    ```
 
