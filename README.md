@@ -2,6 +2,11 @@
 
 > An immersive 3D theme park experience built with modern web technologies
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)](https://threejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+
 A fully interactive 3D theme park built with **Vite**, **Three.js**, **TypeScript**, and **Tailwind CSS**. Experience rides, explore attractions, and navigate through a beautifully crafted virtual environment.
 
 ## ✨ Features
